@@ -1,8 +1,8 @@
 # Responsive-Portfolio
 
-A version of my portfolio site that utilizes media queries.
+An old version of my portfolio site that utilizes media queries.
 
-link: https://alexwetzel.github.io/Responsive-Portfolio.github.io/
+link: https://alexwetzel.github.io/Responsive-Portfolio.github.io/bio
 
 This is a portfolio template website using HTML and CSS. The layout of the site changes based on the size of the screen. Try shrinking the width of the browser, or view it on a smartphone!
 
